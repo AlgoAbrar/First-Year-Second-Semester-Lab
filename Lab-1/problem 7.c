@@ -1,4 +1,4 @@
-//print a right-angle triangle using star without using loop
+//print a right-angle triangle using stars without using loop
 #include<stdio.h>
 int main()
 {
