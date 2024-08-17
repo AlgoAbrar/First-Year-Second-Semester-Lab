@@ -1,4 +1,4 @@
-//Write a program to print output of the equation (2*(2+2)/2)+(2+2)
+//Write a program to print the output of the equation (2*(2+2)/2)+(2+2)
 #include<stdio.h>
 int main()
 {
