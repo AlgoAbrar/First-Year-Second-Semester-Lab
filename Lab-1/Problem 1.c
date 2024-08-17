@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main()
 {
-    printf("Name: Saiyedul Abrar\n");
+    printf("Name: Saiyedul Abrar \n");
     printf("Age:19\n");
     printf("Address: Room: 312, Boral Hall, BAUET");
     return 0;
