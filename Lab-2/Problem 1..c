@@ -1,5 +1,5 @@
-//Write a program that will take input of days and
-//show number of years, month, week, days
+//Write a program that will take input of days and.
+//show number of years, month, week, days.
 #include<stdio.h>
 int main()
 {
