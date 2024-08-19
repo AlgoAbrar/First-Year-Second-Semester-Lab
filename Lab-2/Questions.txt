@@ -1,0 +1,17 @@
+sqrt( )
+pow (base,integer number)
+ceil(3.1)= next integer number
+floor( 3.8)= previous integer number
+
+
+1. Write a program that will take input of days and
+show number of years, month, week, days
+
+2. Write a program that will show area of a triangle
+
+3. Math built in library use kore iccha moto program.
+(4 tar jonno 4 ta input nibo)
+
+4. borgo bahu dewa ache korner doirgho ber korte hobe
+
+5. ayoto khetro doirgho prostho dewa porisima ber korte hobe.
