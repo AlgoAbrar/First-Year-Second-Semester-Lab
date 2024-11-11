@@ -16,6 +16,5 @@ int main()
            "Their Hindu counterparts hardly treated them native. Also, the Hindus sided with"
            "the British to teach the Muslims a good a lesson may be in a bid to give vent to"
            "their pent up anger over loosing the territory to the Muslims some hundred years back.\n-Saiyedul Abrar\n");
-
     return 0;
 }
