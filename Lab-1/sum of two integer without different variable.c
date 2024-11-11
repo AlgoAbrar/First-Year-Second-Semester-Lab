@@ -1,5 +1,5 @@
 //write a program to add two integer numbers and show
-//the summation keeping in a different variables
+//the summation without keeping in a different variables
 #include<stdio.h>
 int main()
 {
